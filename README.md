@@ -1,2 +1,2 @@
-# Hardware-Description
+# Hardware Description
 Programming in VHDL
